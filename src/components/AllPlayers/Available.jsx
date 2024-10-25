@@ -20,10 +20,10 @@ const Available = ({
   }, []);
 
   const handleSelectPlayer = (player) => {
-    if (selectedPlayers.length >= 6) {
-      toast.error("You can only select up to 6 players.");
-      return;
-    }
+    // if (selectedPlayers.length >= 6) {
+    //   toast.error("You can only select up to 6 players.");
+    //   return;
+    // }
 
     if (amount < player.biddingPrice) {
       toast.error("Not enough coins to select this player.");
@@ -31,8 +31,8 @@ const Available = ({
     }
 
     addSelectedPlayer(player);
-    setAmount((prevAmount) => prevAmount - player.biddingPrice);
-    toast.success(`${player.name} added to your team!`);
+    // setAmount((prevAmount) => prevAmount - player.biddingPrice);
+    // toast.success(`${player.name} added to your team!`);
   };
 
 
