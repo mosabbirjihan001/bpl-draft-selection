@@ -1,0 +1,153 @@
+[
+    {
+      "playerId": 1,
+      "name": "Virat Kohli",
+      "country": "India",
+      "image": "https://i.ibb.co.com/YyM9nvS/Virat-kohli-wallpaper.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",
+      "biddingPrice": 230000
+    },
+    {
+      "playerId": 2,
+      "name": "David Warner",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/K5859jp/David-Warner-Scripts-History-In-Australian-Cricket-As-Opener.jpg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 190000
+    },
+    {
+      "playerId": 3,
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "image": "https://i.ibb.co.com/wddKmZT/48a9fb8b-2621-41e6-a5cc-b21d026d71dd.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 150000
+    },
+    {
+      "playerId": 4,
+      "name": "Rashid Khan",
+      "country": "Afghanistan",
+      "image": "https://i.ibb.co.com/StnL4b9/Rashid-Khan-World-cup-photo.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm legbreak",
+      "biddingPrice": 120000
+    },
+    {
+      "playerId": 5,
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/cCbTWtJ/Kane-Williamson-Photo.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 100000
+    },
+    {
+      "playerId": 6,
+      "name": "Ben Stokes",
+      "country": "England",
+      "image": "https://i.ibb.co.com/zFZKtRQ/Man-of-the-Match-Ben-Stokes-take-a-bow.jpg",
+      "role": "All-Rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm medium-fast",
+      "biddingPrice": 220000
+    },
+    {
+      "playerId": 7,
+      "name": "Travis Head",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/vVzs1Kx/Travis-Head-Celebrate-Century.jpg",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": 140000
+    },
+    {
+      "playerId": 8,
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/XZdbcQw/8a8956cf-1ffb-46b2-856b-8d63e2a17073.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 180000
+    },
+    {
+      "playerId": 9,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "https://i.ibb.co.com/stDk5gL/Shakib-Al-Hasan.jpg",
+      "role": "All-Rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm orthodox",
+      "biddingPrice": 110000
+    },
+    {
+      "playerId": 10,
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "image": "https://i.ibb.co.com/hDLFJ3Z/IPL-2024-Trent-Boult-s-bowling-was-world-class-against-MI-says-Stuart-Broad.jpg",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": 160000
+    },
+    {
+      "playerId": 11,
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "image": "https://i.ibb.co.com/mGMw2BX/Babar-azam.jpg",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "None",
+      "biddingPrice": 170000
+    },
+    {
+      "playerId": 12,
+      "name": "Sam Curran",
+      "country": "England",
+      "image": "https://i.ibb.co.com/DRV5D0G/download.jpg",
+      "role": "All-Rounder",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Right-arm medium-fast",
+      "biddingPrice": 130000
+    },
+    {
+      "playerId": 13,
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "image": "https://i.ibb.co.com/nBrhYfp/andre-russell-wallpaper.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",
+      "biddingPrice": 210000
+    },
+    {
+      "playerId": 14,
+      "name": "Mitchell Starc",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/KwKBcJQ/Mitchell-starc.jpg",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm fast",
+      "biddingPrice": 125000
+    },
+    {
+      "playerId": 15,
+      "name": "Glenn Maxwell",
+      "country": "Australia",
+      "image": "https://i.ibb.co.com/tJFbWxs/GLENN-MAXWELL-WALLPAPER.jpg",
+      "role": "All-Rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm offbreak",
+      "biddingPrice": 200000
+    }
+  ]
+  
